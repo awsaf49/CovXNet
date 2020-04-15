@@ -23,6 +23,13 @@ def unit_block(xin, ch, dil_range, n):
   return x
 
 
+"""
+           ch           = Number of Channels
+           dil_range    = Dialation Range
+           n            = Depth of the Network
+           xin          = Input
+           
+"""
 
 
 # Shifter Block of CovXNet:
@@ -40,7 +47,11 @@ def shifter_block(xin, ch):
     return x
   
   
-  
+"""
+           xin          = Input
+           ch           = Number of Channel
+           
+"""
   
 # Network of CovXNet: 
 
@@ -75,5 +86,10 @@ def Network(input_shape, nb_class, depth):
 
   return model
 
-
-
+"""
+           xin          = Input
+           ch           = Number of Channel
+           nb_class     = Number of Class
+           depth        = Depth of the Network
+           
+"""
