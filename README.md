@@ -4,3 +4,4 @@ With the recent outbreak of COVID-19, fast diagnostic testing has become one of 
 
 <img src="https://github.com/Perceptron21/CovXNet/blob/master/sketch%20method.png" width="900">
 <img src="https://github.com/Perceptron21/CovXNet/blob/master/Figure%20Pneumonia.png" width="900">
+<img src="https://github.com/Perceptron21/CovXNet/blob/master/Grad-CAM.png" width="900">
