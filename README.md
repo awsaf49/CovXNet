@@ -6,6 +6,6 @@ With the recent outbreak of COVID-19, fast diagnostic testing has become one of 
 
 <img align="right" src="https://github.com/Perceptron21/CovXNet/blob/master/f4.jpg" width="400">
 
-<img align="left" src="https://github.com/Perceptron21/CovXNet/blob/master/f5.jpg" width="500">
+<img align="left" src="https://github.com/Perceptron21/CovXNet/blob/master/f5.jpg" width="450">
 
 <img align="right" src="https://github.com/Perceptron21/CovXNet/blob/master/Grad-CAM.png" width="400">
