@@ -4,7 +4,7 @@ With the recent outbreak of COVID-19, fast diagnostic testing has become one of 
 
 Paper link: [here](https://www.sciencedirect.com/science/article/pii/S0010482520302250)
 
-Used in this [Notebook](https://www.kaggle.com/awsaf49/covxnet-normal-vs-bacterial-vs-viral/notebook)
+Used in this [Notebook](https://www.kaggle.com/awsaf49/normal-vs-bacterial-vs-viral-resnet50)
 
 <img align="left" src="https://github.com/Perceptron21/CovXNet/blob/master/sketch%20method.png" width="900">
 
