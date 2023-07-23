@@ -5,7 +5,7 @@ With the recent outbreak of COVID-19, fast diagnostic testing has become one of 
 
 Paper link: [here](https://www.sciencedirect.com/science/article/pii/S0010482520302250)
 
-Used in this [Pneumonia Detection with CovXNet](https://www.kaggle.com/awsaf49/pneumonia-detection-with-covxnet)
+Notebook: [Pneumonia Detection with CovXNet](https://www.kaggle.com/awsaf49/pneumonia-detection-with-covxnet)
 
 Visual Abstract:
 
