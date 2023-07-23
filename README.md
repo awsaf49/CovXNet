@@ -37,10 +37,18 @@ model = CovXNet128(input_shape=(128, 128, 3), num_classes=3)
 
 <img src="images/sketch.png" width="600">
 
-**Ensemble Network:**
+**Blocks**:
 
-<img src="images/f4.jpg" width="600">
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482520302250-gr2.jpg" width="600">
 
 **Architecture:**
 
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482520302250-gr4.jpg" width="600">
+
+**Mechanism**
+
 <img src="images/f5.jpg" width="600">
+
+**Ensemble Network:**
+
+<img src="images/f4.jpg" width="600">
