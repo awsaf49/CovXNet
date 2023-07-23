@@ -33,7 +33,7 @@ model = CovXNet128(input_shape=(128, 128, 3), num_classes=3)
 
 
 ## Method
-**Visual Abstract:**
+**Visual Summary:**
 
 <img src="images/sketch.png" width="600">
 
@@ -45,10 +45,20 @@ model = CovXNet128(input_shape=(128, 128, 3), num_classes=3)
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482520302250-gr4.jpg" width="600">
 
-**Mechanism**
-
-<img src="images/f5.jpg" width="600">
-
 **Ensemble Network:**
 
 <img src="images/f4.jpg" width="600">
+
+
+## Citation
+```bib
+@article{mahmud2020covxnet,
+  title={CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization},
+  author={Mahmud, Tanvir and Rahman, Md Awsafur and Fattah, Shaikh Anowarul},
+  journal={Computers in biology and medicine},
+  volume={122},
+  pages={103869},
+  year={2020},
+  publisher={Elsevier}
+}
+```
